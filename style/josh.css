@@ -1,0 +1,38 @@
+#main{
+    width: 80%;
+    display: block;
+    margin: auto;
+
+}
+
+.profile{
+    border-bottom:2px solid white;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+nav{
+    padding-bottom: 10px;
+}
+
+#site_content{
+    border: 1px solid lightgray;
+    padding: 5%;
+}
+
+.left{
+    border-right:1px solid white;
+}
+
+.left, .right{
+    width:50%;
+}
+
+
+.inline-Wrapper{
+    display:flex;
+}
+
+.item{
+    margin:20px;
+}
